@@ -1,0 +1,4 @@
+def area_circle(1.1)
+    PI=3.14*1.1*1.1
+    print("The result of circle is:",result)
+    
